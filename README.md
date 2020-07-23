@@ -1,7 +1,12 @@
-### Hi there 👋
+## Flávia Janine Rosante Béo
 
-Flávia Janine Rosante Béo
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/flaviajanine/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/flaviajanine/)
+
+### Hi there 👋
 
 - 👩‍🎓 Graduated in Computer Engineer 
 - 👩‍💻 Full-stack Software Developer at IBM
 - 📚 Studying for my Master’s Degree in Computer Science
+- ⚛️ Study fields on Quantum Computing 
+- 🌟 UX and Design Thinking Enthusiastic 
