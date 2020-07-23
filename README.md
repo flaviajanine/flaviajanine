@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-- 👩‍🎓 Graduated in Computer Engineer 
+- 👩‍🎓 Graduated in Computer Engineering 
 - 👩‍💻 Full-stack Software Developer at IBM
 - 📚 Studying for my Master’s Degree in Computer Science
 - ⚛️ Study fields on Quantum Computing and M.L.
