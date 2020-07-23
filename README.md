@@ -8,5 +8,5 @@
 - 👩‍🎓 Graduated in Computer Engineer 
 - 👩‍💻 Full-stack Software Developer at IBM
 - 📚 Studying for my Master’s Degree in Computer Science
-- ⚛️ Study fields on Quantum Computing 
+- ⚛️ Study fields on Quantum Computing and M.L.
 - 🌟 UX and Design Thinking Enthusiastic 
