@@ -8,7 +8,7 @@
 I am a software developer who loves to research and know about new technologies 
 
 - 👩‍🎓 Graduated in Computer Engineering 
-- 👩‍💻 Full-stack Software Developer at IBM
-- 📚 Studying for my Master’s Degree in Computer Science
+- 📚 Master in Computer Science
 - ⚛️ Study fields on Quantum Computing and M.L.
+- 👩‍💻 Full-stack Software Developer at IBM
 - 🌟 UX and Design Thinking Enthusiastic 
