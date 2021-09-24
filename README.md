@@ -12,3 +12,7 @@ I am a software developer who loves to research and know about new technologies
 - ⚛️ Study fields on Quantum Computing and M.L.
 - 👩‍💻 Full-stack Software Developer at IBM
 - 🌟 UX and Design Thinking Enthusiastic 
+
+![flaviajanine](https://user-images.githubusercontent.com/11771581/134710697-89bf44f2-e613-4d75-887a-83a9c2fc2396.png)
+
+- Scan the code or click the link to see my latest posts https://linktr.ee/flaviajanine
