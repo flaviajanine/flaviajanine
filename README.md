@@ -9,9 +9,8 @@ I am a software developer who loves to research and know about new technologies
 
 - 👩‍🎓 Graduated in Computer Engineering 
 - 👩‍🎓 Master in Computer Science
-- ⚛️ Study fields on Quantum Computing and M.L.
 - 👩‍💻 IBM Research Engineer
-- 🌟 UX and Design Thinking
+- 👩‍💻 Assistant Professor at IMT
 
 
 - Click the link to see my latest stuff https://linktr.ee/flaviajanine
